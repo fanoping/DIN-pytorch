@@ -13,7 +13,7 @@ This repository contains code unofficially reimplemented the original paper ***K
 - [ ] Regularization in DiFacto
 - [ ] Mini-Batch Aware (MBA) regularization
 
-## Acknowledgements
+### Acknowledgements
 
 Part of codes are adapted from the following projects
 
