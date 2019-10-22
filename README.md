@@ -1,6 +1,17 @@
 # PyTorch Implementation of Deep Interest Network
 
-[*KDD 2018*] Deep Interest Network for Click-Through Rate Prediction
+### Overview
+
+This repository contains code unofficially reimplemented the original paper ***KDD 2018 Deep Interest Network for Click-Through Rate Prediction*** in PyTorch version
+
+### To-Dos
+
+- [x] Simple Architecture Reimplementation
+- [x] Dice Activation / PReLU
+- [ ] Data Evaluation (not trained yet)
+- [x] Dropout
+- [ ] Regularization in DiFacto
+- [ ] Mini-Batch Aware (MBA) regularization
 
 ## Acknowledgements
 
